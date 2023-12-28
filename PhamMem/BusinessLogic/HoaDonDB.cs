@@ -6,5 +6,6 @@ using System.Threading.Tasks;
 
 namespace PhamMem.BusinessLogin {
     internal class HoaDonDB {
+        // comment
     }
 }
